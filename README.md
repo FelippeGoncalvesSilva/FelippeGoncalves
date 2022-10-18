@@ -1,5 +1,10 @@
 # Felippe Goncalves
-
+<div align="center">
+  <a href="https://github.com/felippe2021">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=felippe2021&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippe2021&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 Cursando Analise e Desenvolvimento de Sistemas.
 <div>
 Formação em 2023.
