@@ -14,7 +14,7 @@ Estagiário na Empresa Docknox.
 
   <a href="https://github.com/felippe2021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felippe2021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippe2021&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippe2021&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
