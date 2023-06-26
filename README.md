@@ -10,15 +10,15 @@ Cursando Analise e Desenvolvimento de Sistemas.
 Formação em 2023.
 <div>
 
-Estagiário na Empresa Docknox.
-- Desenvolvimento de projetos em .NET Framework 
-- Resolução de chamados diários 
-- Geração de Relatórios Analíticos
-- Controle de Versionamento de Código com GIT e Bitbucket
-- Banco de dados SQL Server e PostgreSQL
+Desenvolvedor Front end na Empresa Setter.
+- Html 5
+- Css
+- JavaScript
+- React.Js
+- Angular
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/JavaScript/JavaScript-original.svg">
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <div>
