@@ -8,7 +8,7 @@ Formação em 2023.
     <br />
 <div align="center">
   <a href="https://github.com/felippeGoncalvesSilva">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=felippeGoncalvesSilva&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=felippeGoncalvesSilva&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippeGoncalvesSilva&layout=compact&langs_count=7&theme=dark"/>
   </div>
     <br />
